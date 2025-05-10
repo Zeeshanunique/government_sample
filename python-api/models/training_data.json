@@ -1,0 +1,394 @@
+[
+  {
+    "english": "Please submit your application form by the end of this month.",
+    "hindi": "कृपया अपना आवेदन पत्र इस महीने के अंत तक जमा करें।"
+  },
+  {
+    "english": "This certificate is issued by the Ministry of Education.",
+    "hindi": "यह प्रमाण पत्र शिक्षा मंत्रालय द्वारा जारी किया गया है।"
+  },
+  {
+    "english": "Your request has been approved by the department.",
+    "hindi": "आपका अनुरोध विभाग द्वारा स्वीकृत कर लिया गया है।"
+  },
+  {
+    "english": "Please bring your identification documents for verification.",
+    "hindi": "सत्यापन के लिए कृपया अपने पहचान दस्तावेज लेकर आएं।"
+  },
+  {
+    "english": "The office will remain closed on all national holidays.",
+    "hindi": "कार्यालय सभी राष्ट्रीय अवकाशों पर बंद रहेगा।"
+  },
+  {
+    "english": "Applicants must provide proof of residence.",
+    "hindi": "आवेदकों को निवास का प्रमाण देना होगा।"
+  },
+  {
+    "english": "Please sign the declaration form at the bottom.",
+    "hindi": "कृपया नीचे घोषणा पत्र पर हस्ताक्षर करें।"
+  },
+  {
+    "english": "The meeting is scheduled for 3:00 PM tomorrow.",
+    "hindi": "बैठक कल दोपहर 3:00 बजे निर्धारित है।"
+  },
+  {
+    "english": "Your passport will be processed within 15 working days.",
+    "hindi": "आपका पासपोर्ट 15 कार्य दिवसों के भीतर प्रोसेस किया जाएगा।"
+  },
+  {
+    "english": "All taxes must be paid before the due date.",
+    "hindi": "सभी करों का भुगतान नियत तारीख से पहले करना होगा।"
+  },
+  {
+    "english": "The application deadline has been extended by one week.",
+    "hindi": "आवेदन की समय सीमा एक सप्ताह के लिए बढ़ा दी गई है।"
+  },
+  {
+    "english": "Please attach a copy of your Aadhar card.",
+    "hindi": "कृपया अपने आधार कार्ड की एक प्रति संलग्न करें।"
+  },
+  {
+    "english": "The department is not responsible for any delay in processing.",
+    "hindi": "प्रोसेसिंग में किसी भी देरी के लिए विभाग जिम्मेदार नहीं है।"
+  },
+  {
+    "english": "You may submit your grievance at the help desk.",
+    "hindi": "आप अपनी शिकायत सहायता काउंटर पर जमा कर सकते हैं।"
+  },
+  {
+    "english": "The certificate will be valid for a period of five years.",
+    "hindi": "प्रमाण पत्र पांच वर्ष की अवधि के लिए मान्य होगा।"
+  },
+  {
+    "english": "Please download the form from the official website.",
+    "hindi": "कृपया आधिकारिक वेबसाइट से फॉर्म डाउनलोड करें।"
+  },
+  {
+    "english": "Kindly acknowledge receipt of this letter.",
+    "hindi": "कृपया इस पत्र की प्राप्ति की पावती दें।"
+  },
+  {
+    "english": "The scholarship is available for economically disadvantaged students.",
+    "hindi": "छात्रवृत्ति आर्थिक रूप से वंचित छात्रों के लिए उपलब्ध है।"
+  },
+  {
+    "english": "Your application has been rejected due to incomplete documentation.",
+    "hindi": "अपूर्ण दस्तावेजीकरण के कारण आपका आवेदन अस्वीकार कर दिया गया है।"
+  },
+  {
+    "english": "Please furnish all the required documents within 7 days.",
+    "hindi": "कृपया 7 दिनों के भीतर सभी आवश्यक दस्तावेज प्रस्तुत करें।"
+  },
+  {
+    "english": "The property tax must be paid annually.",
+    "hindi": "संपत्ति कर वार्षिक रूप से भुगतान करना होगा।"
+  },
+  {
+    "english": "You are hereby summoned to appear before the district court.",
+    "hindi": "आपको एतद्द्वारा जिला न्यायालय के समक्ष उपस्थित होने के लिए समन दिया जाता है।"
+  },
+  {
+    "english": "The pension will be credited directly to your bank account.",
+    "hindi": "पेंशन सीधे आपके बैंक खाते में जमा की जाएगी।"
+  },
+  {
+    "english": "The competent authority has sanctioned your leave application.",
+    "hindi": "सक्षम प्राधिकारी ने आपके अवकाश आवेदन को मंजूरी दे दी है।"
+  },
+  {
+    "english": "Please note that this is the final notice.",
+    "hindi": "कृपया ध्यान दें कि यह अंतिम नोटिस है।"
+  },
+  {
+    "english": "Government employees must adhere to the code of conduct.",
+    "hindi": "सरकारी कर्मचारियों को आचार संहिता का पालन करना चाहिए।"
+  },
+  {
+    "english": "The tender document must be submitted in a sealed envelope.",
+    "hindi": "निविदा दस्तावेज को एक सीलबंद लिफाफे में जमा करना होगा।"
+  },
+  {
+    "english": "The Right to Information Act guarantees transparency in governance.",
+    "hindi": "सूचना का अधिकार अधिनियम शासन में पारदर्शिता की गारंटी देता है।"
+  },
+  {
+    "english": "Please retain this receipt for future reference.",
+    "hindi": "कृपया भविष्य के संदर्भ के लिए इस रसीद को रखें।"
+  },
+  {
+    "english": "The project completion certificate has been approved.",
+    "hindi": "परियोजना पूर्णता प्रमाण पत्र को मंजूरी दे दी गई है।"
+  },
+  {
+    "english": "Please submit your application form by the end of this month.",
+    "hindi": "कृपया अपना आवेदन पत्र इस महीने के अंत तक जमा करें।"
+  },
+  {
+    "english": "This certificate is issued by the Ministry of Education.",
+    "hindi": "यह प्रमाण पत्र शिक्षा मंत्रालय द्वारा जारी किया गया है।"
+  },
+  {
+    "english": "Your request has been approved by the department.",
+    "hindi": "आपका अनुरोध विभाग द्वारा स्वीकृत कर लिया गया है।"
+  },
+  {
+    "english": "Please bring your identification documents for verification.",
+    "hindi": "सत्यापन के लिए कृपया अपने पहचान दस्तावेज लेकर आएं।"
+  },
+  {
+    "english": "The office will remain closed on all national holidays.",
+    "hindi": "कार्यालय सभी राष्ट्रीय अवकाशों पर बंद रहेगा।"
+  },
+  {
+    "english": "Applicants must provide proof of residence.",
+    "hindi": "आवेदकों को निवास का प्रमाण देना होगा।"
+  },
+  {
+    "english": "Please sign the declaration form at the bottom.",
+    "hindi": "कृपया नीचे घोषणा पत्र पर हस्ताक्षर करें।"
+  },
+  {
+    "english": "The meeting is scheduled for 3:00 PM tomorrow.",
+    "hindi": "बैठक कल दोपहर 3:00 बजे निर्धारित है।"
+  },
+  {
+    "english": "Your passport will be processed within 15 working days.",
+    "hindi": "आपका पासपोर्ट 15 कार्य दिवसों के भीतर प्रोसेस किया जाएगा।"
+  },
+  {
+    "english": "All taxes must be paid before the due date.",
+    "hindi": "सभी करों का भुगतान नियत तारीख से पहले करना होगा।"
+  },
+  {
+    "english": "The application deadline has been extended by one week.",
+    "hindi": "आवेदन की समय सीमा एक सप्ताह के लिए बढ़ा दी गई है।"
+  },
+  {
+    "english": "Please attach a copy of your Aadhar card.",
+    "hindi": "कृपया अपने आधार कार्ड की एक प्रति संलग्न करें।"
+  },
+  {
+    "english": "The department is not responsible for any delay in processing.",
+    "hindi": "प्रोसेसिंग में किसी भी देरी के लिए विभाग जिम्मेदार नहीं है।"
+  },
+  {
+    "english": "You may submit your grievance at the help desk.",
+    "hindi": "आप अपनी शिकायत सहायता काउंटर पर जमा कर सकते हैं।"
+  },
+  {
+    "english": "The certificate will be valid for a period of five years.",
+    "hindi": "प्रमाण पत्र पांच वर्ष की अवधि के लिए मान्य होगा।"
+  },
+  {
+    "english": "Please download the form from the official website.",
+    "hindi": "कृपया आधिकारिक वेबसाइट से फॉर्म डाउनलोड करें।"
+  },
+  {
+    "english": "Kindly acknowledge receipt of this letter.",
+    "hindi": "कृपया इस पत्र की प्राप्ति की पावती दें।"
+  },
+  {
+    "english": "The scholarship is available for economically disadvantaged students.",
+    "hindi": "छात्रवृत्ति आर्थिक रूप से वंचित छात्रों के लिए उपलब्ध है।"
+  },
+  {
+    "english": "Your application has been rejected due to incomplete documentation.",
+    "hindi": "अपूर्ण दस्तावेजीकरण के कारण आपका आवेदन अस्वीकार कर दिया गया है।"
+  },
+  {
+    "english": "Please furnish all the required documents within 7 days.",
+    "hindi": "कृपया 7 दिनों के भीतर सभी आवश्यक दस्तावेज प्रस्तुत करें।"
+  },
+  {
+    "english": "The property tax must be paid annually.",
+    "hindi": "संपत्ति कर वार्षिक रूप से भुगतान करना होगा।"
+  },
+  {
+    "english": "You are hereby summoned to appear before the district court.",
+    "hindi": "आपको एतद्द्वारा जिला न्यायालय के समक्ष उपस्थित होने के लिए समन दिया जाता है।"
+  },
+  {
+    "english": "The pension will be credited directly to your bank account.",
+    "hindi": "पेंशन सीधे आपके बैंक खाते में जमा की जाएगी।"
+  },
+  {
+    "english": "The competent authority has sanctioned your leave application.",
+    "hindi": "सक्षम प्राधिकारी ने आपके अवकाश आवेदन को मंजूरी दे दी है।"
+  },
+  {
+    "english": "Please note that this is the final notice.",
+    "hindi": "कृपया ध्यान दें कि यह अंतिम नोटिस है।"
+  },
+  {
+    "english": "Government employees must adhere to the code of conduct.",
+    "hindi": "सरकारी कर्मचारियों को आचार संहिता का पालन करना चाहिए।"
+  },
+  {
+    "english": "The tender document must be submitted in a sealed envelope.",
+    "hindi": "निविदा दस्तावेज को एक सीलबंद लिफाफे में जमा करना होगा।"
+  },
+  {
+    "english": "The Right to Information Act guarantees transparency in governance.",
+    "hindi": "सूचना का अधिकार अधिनियम शासन में पारदर्शिता की गारंटी देता है।"
+  },
+  {
+    "english": "Please retain this receipt for future reference.",
+    "hindi": "कृपया भविष्य के संदर्भ के लिए इस रसीद को रखें।"
+  },
+  {
+    "english": "The project completion certificate has been approved.",
+    "hindi": "परियोजना पूर्णता प्रमाण पत्र को मंजूरी दे दी गई है।"
+  },
+  {
+    "english": "Your income tax return has been processed successfully.",
+    "hindi": "आपका आयकर रिटर्न सफलतापूर्वक प्रोसेस कर लिया गया है।"
+  },
+  {
+    "english": "The government has launched a new scheme for farmers.",
+    "hindi": "सरकार ने किसानों के लिए एक नई योजना शुरू की है।"
+  },
+  {
+    "english": "Aadhaar card is mandatory for availing government benefits.",
+    "hindi": "सरकारी लाभ प्राप्त करने के लिए आधार कार्ड अनिवार्य है।"
+  },
+  {
+    "english": "Please submit your application before the deadline.",
+    "hindi": "कृपया अपना आवेदन समय सीमा से पहले जमा करें।"
+  },
+  {
+    "english": "You are requested to attend the meeting on Friday.",
+    "hindi": "आपसे शुक्रवार को बैठक में उपस्थित होने का अनुरोध है।"
+  },
+  {
+    "english": "The government has announced a new policy for farmers.",
+    "hindi": "सरकार ने किसानों के लिए एक नई नीति की घोषणा की है।"
+  },
+  {
+    "english": "Your income tax returns must be filed by July 31st.",
+    "hindi": "आपके आयकर रिटर्न 31 जुलाई तक दाखिल किए जाने चाहिए।"
+  },
+  {
+    "english": "This document requires your signature on all pages.",
+    "hindi": "इस दस्तावेज़ पर आपके हस्ताक्षर सभी पृष्ठों पर आवश्यक हैं।"
+  },
+  {
+    "english": "The court has issued an order in your favor.",
+    "hindi": "न्यायालय ने आपके पक्ष में एक आदेश जारी किया है।"
+  },
+  {
+    "english": "Please fill out the form in capital letters using black ink.",
+    "hindi": "कृपया फॉर्म को काली स्याही से बड़े अक्षरों में भरें।"
+  },
+  {
+    "english": "All government offices will remain open on the first Saturday of each month.",
+    "hindi": "सभी सरकारी कार्यालय हर महीने के पहले शनिवार को खुले रहेंगे।"
+  },
+  {
+    "english": "Your application status can be checked online using the reference number.",
+    "hindi": "आपके आवेदन की स्थिति संदर्भ संख्या का उपयोग करके ऑनलाइन जांची जा सकती है।"
+  },
+  {
+    "english": "The subsidy amount will be transferred to your bank account directly.",
+    "hindi": "सब्सिडी की राशि सीधे आपके बैंक खाते में स्थानांतरित की जाएगी।"
+  },
+  {
+    "english": "Please provide a self-attested photocopy of your identity card.",
+    "hindi": "कृपया अपने पहचान पत्र की स्व-प्रमाणित फोटोकॉपी प्रदान करें।"
+  },
+  {
+    "english": "The land records have been digitized and are available online.",
+    "hindi": "भूमि अभिलेखों को डिजिटल किया गया है और वे ऑनलाइन उपलब्ध हैं।"
+  },
+  {
+    "english": "Voters must carry their voter ID card to the polling booth.",
+    "hindi": "मतदाताओं को मतदान केंद्र पर अपना मतदाता पहचान पत्र ले जाना अनिवार्य है।"
+  },
+  {
+    "english": "The Public Distribution System ensures food security for all citizens.",
+    "hindi": "सार्वजनिक वितरण प्रणाली सभी नागरिकों के लिए खाद्य सुरक्षा सुनिश्चित करती है।"
+  },
+  {
+    "english": "You can register a complaint through the online grievance portal.",
+    "hindi": "आप ऑनलाइन शिकायत पोर्टल के माध्यम से शिकायत दर्ज कर सकते हैं।"
+  },
+  {
+    "english": "The certificate should be submitted in original along with two photocopies.",
+    "hindi": "प्रमाण पत्र मूल रूप में दो फोटोकॉपी के साथ जमा किया जाना चाहिए।"
+  },
+  {
+    "english": "Your voter ID card will be delivered to your registered address.",
+    "hindi": "आपका मतदाता पहचान पत्र आपके पंजीकृत पते पर भेजा जाएगा।"
+  },
+  {
+    "english": "The next hearing of your case is scheduled for September 15th.",
+    "hindi": "आपके मामले की अगली सुनवाई 15 सितंबर को निर्धारित है।"
+  },
+  {
+    "english": "A demand draft of Rs. 500 must be enclosed with the application.",
+    "hindi": "आवेदन के साथ 500 रुपये का डिमांड ड्राफ्ट संलग्न होना चाहिए।"
+  },
+  {
+    "english": "The scholarship amount will be credited to the student's bank account.",
+    "hindi": "छात्रवृत्ति की राशि छात्र के बैंक खाते में जमा की जाएगी।"
+  },
+  {
+    "english": "All correspondence should be addressed to the Registrar.",
+    "hindi": "सभी पत्राचार रजिस्ट्रार को संबोधित किया जाना चाहिए।"
+  },
+  {
+    "english": "The deadline for online registration is midnight on July 15th.",
+    "hindi": "ऑनलाइन पंजीकरण की समय सीमा 15 जुलाई की मध्यरात्रि है।"
+  },
+  {
+    "english": "Please verify all details before submitting the form.",
+    "hindi": "फॉर्म जमा करने से पहले कृपया सभी विवरणों की जांच करें।"
+  },
+  {
+    "english": "The department will not be responsible for any postal delay.",
+    "hindi": "विभाग किसी भी डाक में देरी के लिए जिम्मेदार नहीं होगा।"
+  },
+  {
+    "english": "Applicants should have a minimum of 5 years of experience.",
+    "hindi": "आवेदकों के पास कम से कम 5 वर्ष का अनुभव होना चाहिए।"
+  },
+  {
+    "english": "The date of birth should be entered in DD/MM/YYYY format.",
+    "hindi": "जन्म तिथि DD/MM/YYYY प्रारूप में दर्ज की जानी चाहिए।"
+  },
+  {
+    "english": "Your passport is ready for collection from the Passport Seva Kendra.",
+    "hindi": "आपका पासपोर्ट पासपोर्ट सेवा केंद्र से संग्रह के लिए तैयार है।"
+  },
+  {
+    "english": "Candidates must bring their admit card to the examination center.",
+    "hindi": "उम्मीदवारों को परीक्षा केंद्र पर अपना प्रवेश पत्र लाना होगा।"
+  },
+  {
+    "english": "Please follow the guidelines issued by the Health Department.",
+    "hindi": "कृपया स्वास्थ्य विभाग द्वारा जारी दिशानिर्देशों का पालन करें।"
+  },
+  {
+    "english": "The allotment letter will be issued after verification of documents.",
+    "hindi": "दस्तावेजों के सत्यापन के बाद आवंटन पत्र जारी किया जाएगा।"
+  },
+  {
+    "english": "All payments should be made online through the government portal.",
+    "hindi": "सभी भुगतान सरकारी पोर्टल के माध्यम से ऑनलाइन किए जाने चाहिए।"
+  },
+  {
+    "english": "The election results will be announced on May 23rd.",
+    "hindi": "चुनाव परिणाम 23 मई को घोषित किए जाएंगे।"
+  },
+  {
+    "english": "Students must submit their assignments by the given deadline.",
+    "hindi": "छात्रों को अपना असाइनमेंट दी गई समय सीमा तक जमा करना होगा।"
+  },
+  {
+    "english": "Please provide a valid mobile number for OTP verification.",
+    "hindi": "ओटीपी सत्यापन के लिए कृपया एक वैध मोबाइल नंबर प्रदान करें।"
+  },
+  {
+    "english": "The hearing has been adjourned to the next date.",
+    "hindi": "सुनवाई अगली तारीख तक स्थगित कर दी गई है।"
+  }
+]

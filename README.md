@@ -12,6 +12,74 @@ This project demonstrates a modern approach to building government websites with
 - **Responsive Design**: Optimized experience across all device types from mobile to desktop
 - **Performance**: Fast loading times and optimized rendering for a smooth user experience
 - **Dark/Light Mode**: Respect for user preferences with automatic and manual theme switching
+- **Document Translation**: English to Hindi translation service for government documents
+
+## 🌐 Document Translation Service
+
+The project includes a powerful English-Hindi translation service specifically designed for government documents. This feature leverages a custom machine learning model trained on government terminology to provide accurate translations.
+
+### Translation Features
+
+- **Specialized for Government Documents**: Specifically trained on bureaucratic language and formal tone
+- **Preserves Technical Terms**: Accurately translates specialized government terminology
+- **User-friendly Interface**: Simple input/output design for ease of use
+- **Customizable Model**: Trainable with domain-specific translation pairs
+- **Self-hosted Solution**: No dependency on external APIs or services
+
+### How To Use The Translation Service
+
+1. **Start the Translation Server**:
+   ```bash
+   cd python-api
+   pip install -r requirements.txt
+   uvicorn main:app --reload
+   ```
+
+2. **Launch the Translation Interface**:
+   ```bash
+   cd python-api
+   streamlit run app.py
+   ```
+
+3. **Translate Documents**:
+   - Enter English text in the input field
+   - Click "Translate" to get Hindi translation
+   - Copy the translated text for use in documents
+
+### Training The Translation Model
+
+The translation system uses a custom model that can be trained with domain-specific terminology:
+
+1. **Prepare Training Data**:
+   - Create a CSV file with "english,hindi" columns
+   - Add translation pairs relevant to your government domain
+   - Alternatively, use the provided sample data in `govt_training_data.csv`
+
+2. **Train the Model**:
+   ```bash
+   cd python-api
+   python train_model.py
+   ```
+
+3. **Test Your Translation Quality**:
+   - After training, the model will automatically test with some example phrases
+   - Check translation quality and add more training data as needed
+
+### Translation API Endpoints
+
+For developers integrating the translation service:
+
+- **POST /translate**: Translate English text to Hindi
+  ```json
+  {"text": "Your English text here", "preserve_formatting": true}
+  ```
+
+- **POST /train/add-data**: Add new training data pairs
+  ```json
+  {"training_pairs": [{"english": "English text", "hindi": "Hindi translation"}]}
+  ```
+
+- **GET /health**: Check API status and model information
 
 ## 🛠️ Technology Stack
 
@@ -20,6 +88,9 @@ This project demonstrates a modern approach to building government websites with
 - **TypeScript**: Full type safety throughout the application for more reliable code
 - **React 18**: Leveraging the latest React features including concurrent rendering
 - **Tailwind CSS**: Utility-first CSS framework for highly customizable and maintainable styling
+- **FastAPI**: Backend API framework for the translation service
+- **Streamlit**: User interface for the translation service
+- **Custom ML Translation Model**: Lightweight machine learning model for government document translation
 
 ### UI Components and Styling
 - **shadcn/ui**: High-quality, accessible, and customizable UI components
@@ -72,6 +143,7 @@ This project demonstrates a modern approach to building government websites with
 ### Prerequisites
 - Node.js 18.x or later
 - npm or yarn package manager
+- Python 3.8+ (for translation service)
 
 ### Installation
 
@@ -81,13 +153,19 @@ git clone https://github.com/Zeeshanunique/government_sample.git
 cd government_sample
 ```
 
-Install the dependencies:
+Install the frontend dependencies:
 ```bash
 npm install
 # or
 yarn install
 # or
 pnpm install
+```
+
+Install the translation service dependencies:
+```bash
+cd python-api
+pip install -r requirements.txt
 ```
 
 Run the development server:
@@ -99,14 +177,19 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-### Build for Production
+Start the translation service:
 ```bash
-npm run build
-# or
-yarn build
+cd python-api
+uvicorn main:app --reload
 ```
+
+Launch the translation interface:
+```bash
+cd python-api
+streamlit run app.py
+```
+
+Open [http://localhost:3000](http://localhost:3000) for the main website and [http://localhost:8501](http://localhost:8501) for the translation interface.
 
 ## 🌐 Deployment
 
@@ -137,6 +220,9 @@ This template includes:
 - Document management system
 - Citizen feedback modules
 - API for external service integration
+- Expanded language support for translation service
+- Enhanced translation model with transformer architecture
+- Integration of translation service into the main website interface
 
 ## 🤝 Contributing
 
@@ -150,4 +236,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - The shadcn/ui team for their excellent component library
 - Next.js team for the robust framework
-- Government digital service standards from around the world that inspired this template 
+- Government digital service standards from around the world that inspired this template
+- The open source NLP community for translation tools and resources
